@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("System pucharowy API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5dc4730cb18cc91b718fbaa395f0bf5a5dda5d3e")]
 [assembly: System.Reflection.AssemblyProductAttribute("System pucharowy API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("System pucharowy API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
