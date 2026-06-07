@@ -1,0 +1,89 @@
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\appsettings.Development.json
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\appsettings.json
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\System pucharowy API.staticwebassets.endpoints.json
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\System pucharowy API.exe
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\System pucharowy API.deps.json
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\System pucharowy API.runtimeconfig.json
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\System pucharowy API.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\System pucharowy API.pdb
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\obj\Debug\net9.0\System pucharowy API.csproj.AssemblyReference.cache
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\obj\Debug\net9.0\rpswa.dswa.cache.json
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\obj\Debug\net9.0\System pucharowy API.GeneratedMSBuildEditorConfig.editorconfig
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\obj\Debug\net9.0\System pucharowy API.AssemblyInfoInputs.cache
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\obj\Debug\net9.0\System pucharowy API.AssemblyInfo.cs
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\obj\Debug\net9.0\System pucharowy API.csproj.CoreCompileInputs.cache
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\obj\Debug\net9.0\System pucharowy API.MvcApplicationPartsAssemblyInfo.cs
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\obj\Debug\net9.0\System pucharowy API.MvcApplicationPartsAssemblyInfo.cache
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\obj\Debug\net9.0\scopedcss\bundle\System pucharowy API.styles.css
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\obj\Debug\net9.0\staticwebassets.build.json
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\obj\Debug\net9.0\staticwebassets.build.json.cache
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\obj\Debug\net9.0\staticwebassets.development.json
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\obj\Debug\net9.0\System p.B75BE563.Up2Date
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\obj\Debug\net9.0\System pucharowy API.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\obj\Debug\net9.0\refint\System pucharowy API.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\obj\Debug\net9.0\System pucharowy API.pdb
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\obj\Debug\net9.0\System pucharowy API.genruntimeconfig.cache
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\obj\Debug\net9.0\ref\System pucharowy API.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\BCrypt-Net-Next.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\ChilliCream.Nitro.App.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\GreenDonut.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\GreenDonut.Abstractions.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\GreenDonut.Data.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\GreenDonut.Data.Abstractions.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\GreenDonut.Data.Primitives.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\HotChocolate.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\HotChocolate.Abstractions.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\HotChocolate.AspNetCore.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\HotChocolate.AspNetCore.Pipeline.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\HotChocolate.Authorization.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\HotChocolate.Caching.Memory.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\HotChocolate.CostAnalysis.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\HotChocolate.Data.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\HotChocolate.Execution.Abstractions.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\HotChocolate.Execution.Configuration.Abstractions.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\HotChocolate.Execution.Operation.Abstractions.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\HotChocolate.Execution.Pipeline.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\HotChocolate.Execution.Projections.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\HotChocolate.Features.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\HotChocolate.Fusion.Language.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\HotChocolate.Fusion.Utilities.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\HotChocolate.Language.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\HotChocolate.Language.SyntaxTree.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\HotChocolate.Language.Utf8.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\HotChocolate.Language.Visitors.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\HotChocolate.Language.Web.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\HotChocolate.PersistedOperations.Abstractions.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\HotChocolate.PersistedOperations.Pipeline.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\HotChocolate.Primitives.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\HotChocolate.Subscriptions.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\HotChocolate.Subscriptions.InMemory.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\HotChocolate.Text.Json.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\HotChocolate.Transport.Formatters.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\HotChocolate.Transport.Sockets.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\HotChocolate.Types.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\HotChocolate.Types.Abstractions.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\HotChocolate.Types.CursorPagination.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\HotChocolate.Types.CursorPagination.Extensions.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\HotChocolate.Types.Errors.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\HotChocolate.Types.Mutations.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\HotChocolate.Types.Queries.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\HotChocolate.Types.Scalars.Upload.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\HotChocolate.Utilities.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\HotChocolate.Buffers.Text.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\HotChocolate.Buffers.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\HotChocolate.Utilities.DependencyInjection.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\HotChocolate.Utilities.Tasks.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\HotChocolate.Validation.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\Microsoft.Extensions.ObjectPool.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\System.IO.Hashing.dll
+d:\Informatyka\WSB  Merito\Programowanie zaawansowane\System pucharowy API\bin\Debug\net9.0\Yarp.ReverseProxy.dll

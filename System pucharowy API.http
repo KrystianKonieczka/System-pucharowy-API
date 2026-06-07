@@ -1,0 +1,6 @@
+@System_pucharowy_API_HostAddress = http://localhost:5094
+
+GET {{System_pucharowy_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
