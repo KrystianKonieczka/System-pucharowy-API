@@ -21,11 +21,13 @@ builder.Services
 .AddAuthorization()
 .AddQueryType<Query>()
 .AddMutationType<Mutation>()
+.AddFiltering()
 .ModifyRequestOptions(x => x.IncludeExceptionDetails = true);
 
 var app = builder.Build();
 
 app.UseAuthentication();
 app.UseAuthorization();
+app.MapHome();
 app.MapGraphQL();
 app.Run();

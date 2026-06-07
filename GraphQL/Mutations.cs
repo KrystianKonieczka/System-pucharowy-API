@@ -33,8 +33,7 @@ public class Mutation
         [Service] JwtService jwt
     )
     {
-        var user =
-            db.Users
+        var user = db.Users
             .First(x => x.Email == email);
 
         if (!BCrypt.Net.BCrypt
