@@ -4,6 +4,10 @@ public class Match
 
     public int Round { get; set; }
 
+ public int TournamentId { get; set; }
+
+    public Tournament Tournament { get; set; }
+
     public int Player1Id { get; set; }
 
     public User Player1 { get; set; }
@@ -14,5 +18,5 @@ public class Match
 
     public int? WinnerId { get; set; }
 
-    public User Winner { get; set; }
+    public User? Winner { get; set; }
 }

@@ -16,7 +16,7 @@ public static class MapHomeClass
 
                     <a href="/graphql">Przejdź do GraphQL</a>
 
-                    <h3>A oto przykładowe zapytania i mutacje do bazy:</h3>
+                    <h3>A oto przykładowe zapytania i mutacje do bazy (Część z tych zapytań należy wykonywać w odpowiedniej kolejności):</h3>
 
                     <p>Pobranie turniejów</p>
                     <pre>
@@ -84,6 +84,33 @@ public static class MapHomeClass
             }
             }
                     </pre>
+            
+            <p>Utwórz drabinkę (Liczba uczestników meczu musi wynosić 2^n):</p>
+                    <pre>
+            mutation{
+            generateBracket(
+            tournamentId:1
+            )
+            }
+
+                    </pre>
+
+            <p>Sprawdź mecze z uczestnikami:</p>
+                    <pre>
+            query{
+            matches{
+            id
+            round
+            player1{
+                firstName
+            }
+            player2{
+                firstName
+            }
+            }
+            }
+                    </pre>
+            
 
                 </body>
             </html>

@@ -41,5 +41,10 @@ public class AppDbContext : DbContext
         modelBuilder.Entity<Tournament>()
             .HasMany(t => t.Participants)
             .WithMany(u => u.Tournaments);
+
+        modelBuilder.Entity<Match>()
+            .HasOne(x => x.Tournament)
+            .WithMany(x => x.Matches)
+            .HasForeignKey(x => x.TournamentId);
     }
 }

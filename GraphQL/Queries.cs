@@ -21,6 +21,9 @@ public class Query
         var id = int.Parse(user.FindFirstValue(ClaimTypes.NameIdentifier)!);
 
         return db.Matches
+            .Include(x => x.Player1)
+            .Include(x => x.Player2)
+            .Include(x => x.Winner)
             .Where(m => m.Player1Id == id || m.Player2Id == id);
     }
     public IQueryable<User> GetUsers(
@@ -28,5 +31,15 @@ public class Query
     )
     {
         return db.Users;
+    }
+
+    public IQueryable<Match> GetMatches(
+        [Service] AppDbContext db
+    )
+    {
+        return db.Matches
+            .Include(x => x.Player1)
+            .Include(x => x.Player2)
+            .Include(x => x.Winner);
     }
 }

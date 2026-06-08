@@ -10,6 +10,7 @@ public class Tournament
 
     public List<User> Participants { get; set; }
         = new();
-        
-    public Bracket? Bracket { get; set; }
+    
+        public List<Match> Matches { get; set; }
+        = new();
 }

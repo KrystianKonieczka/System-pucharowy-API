@@ -91,4 +91,70 @@ public class Mutation
 
         return "Added";
     }
+
+    public async Task<string> GenerateBracket(
+        int tournamentId,
+        [Service] AppDbContext db
+    )
+    {
+        var tournament =
+            await db.Tournaments
+                .Include(x => x.Participants)
+                .FirstAsync(
+                    x => x.Id == tournamentId
+                );
+
+        var players =
+            tournament.Participants
+                .OrderBy(
+                    x => Guid.NewGuid()
+                )
+                .ToList();
+
+        var count =
+            players.Count;
+
+        bool powerOfTwo =
+            count > 0
+            &&
+            (count & (count - 1))
+            == 0;
+
+        if (!powerOfTwo)
+        {
+            throw new Exception(
+                "Liczba uczestników musi być 2^n"
+            );
+        }
+
+        for (
+            int i = 0;
+            i < count;
+            i += 2
+        )
+        {
+            db.Matches.Add(
+                new Match
+                {
+                    TournamentId =
+                        tournament.Id,
+
+                    Round = 1,
+
+                    Player1Id =
+                        players[i].Id,
+
+                    Player2Id =
+                        players[i + 1].Id
+                }
+            );
+        }
+
+        tournament.Status =
+            "Running";
+
+        await db.SaveChangesAsync();
+
+        return "Bracket generated";
+    }
 }
